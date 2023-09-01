@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name - Vinay anderson
+2. Adjective - dazzling
+3. Adjective - vast
+4. Color - pink
+5. Month - november
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
