@@ -13,9 +13,9 @@
 13. Material - Latex
 14. Activity - Running
 15. Adverb - Slowly
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. Number - 36
+17. Unit of Time - seconds
+18. Different Activity - Swim
+19. Adjective - fun
+20. Vehicle - truck
+21. Your Name - Uma Sivakumar
