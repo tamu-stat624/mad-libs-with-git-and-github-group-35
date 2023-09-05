@@ -8,11 +8,11 @@
 8. Noun (Plural) - friends
 9. Noun - dog
 10. Room Name - The Game Room
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid - water
+12. Adjective - uncomfortable
+13. Material - Latex
+14. Activity - Running
+15. Adverb - Slowly
 16. Number
 17. Unit of Time
 18. Different Activity
