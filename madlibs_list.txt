@@ -3,11 +3,11 @@
 3. Adjective - vast
 4. Color - pink
 5. Month - november
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number - 79
+7. Noun (Plural) - cars
+8. Noun (Plural) - friends
+9. Noun - dog
+10. Room Name - The Game Room
 11. Liquid
 12. Adjective
 13. Material
